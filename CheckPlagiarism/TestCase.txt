@@ -1,0 +1,18 @@
+Test Cases:
+
+Test 1:
+file1.txt: go for a run
+file2.txt: go for a jog
+syns.txt:run jog sprint
+
+Run Test
+100%
+
+Test 2:
+file1.txt: go for a run
+file2.txt: went for a jog
+syns.txt: run jog sprint
+
+Run Test
+50% 
+
